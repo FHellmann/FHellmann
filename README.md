@@ -20,7 +20,7 @@ My research interests include biomedical image and signal processing, deep learn
 ---
 
 ## 📈 Stats
-[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FHellmann&hide=prs&count_private=true&show_icons=true&theme=dark&custom_title&icon_color=ffffff)](https://github.com/Martlgap/Martlgap)
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=FHellmann&hide=prs&count_private=true&show_icons=true&theme=dark&custom_title&icon_color=ffffff)](https://github.com/FHellmann/FHellmann)
 
 ---
 
