@@ -20,9 +20,9 @@ My research interests include biomedical image and signal processing, deep learn
 ---
 
 ## 📈 Stats
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FHellmann&hide=prs&count_private=true&&show_icons=true&bg_color=00000000)](https://github.com/FHellmann/FHellmann)
+[![Fabio's GitHub stats](https://github-stats-extended.vercel.app/api?username=FHellmann&hide=prs&count_private=true&&show_icons=true&bg_color=00000000)](https://github.com/FHellmann/FHellmann)
 
 ---
 
 ## 🧑🏼‍💻 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FHellmann&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FHellmann&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
