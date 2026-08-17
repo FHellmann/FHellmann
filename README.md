@@ -1,8 +1,14 @@
 ## Hi there 👋 it's Fabio,
 
-I am currently a Ph.D. student at the chair for Human-Centered Artificial Intelligence at the University of Augsburg in Germany. 
+I am a Research Associate at the Chair for Human-Centered Artificial Intelligence at the University of Augsburg, Germany.
 
-My research interests include biomedical image and signal processing, deep learning, human-computer interaction, and explainable AI. I am passionate about using technology to improve people’s lives and am dedicated to advancing the field of medicine with AI through my work.
+My work sits at the intersection of artificial intelligence, medicine, and people. I am particularly interested in biomedical computer vision, deep learning, human-computer interaction, and explainable AI. I enjoy exploring how intelligent systems can support clinicians, researchers, and patients—not only by being accurate, but also by being understandable, reliable, and useful in practice.
+
+I am motivated by the idea that technology should make a positive difference in people’s lives. Through my research, I aim to help develop AI methods that advance medical understanding, improve healthcare, and foster human-centered innovation.
+
+Beyond research, I am naturally curious and enjoy learning about new ideas, tools, and perspectives. I value thoughtful collaboration, open discussion, and building things that connect rigorous research with real-world impact.
+
+Feel free to explore my work, publications, and projects – or get in touch if you would like to collaborate or simply talk about AI, healthcare, and technology.
 
 [![Website](https://img.shields.io/badge/Website-https://fhellmann.github.io/-2f80ed?style=for-the-badge&logo=appveyor)](https://fhellmann.github.io/)
 
